@@ -1,0 +1,14 @@
+{
+    "dbOptions": {
+      "database": "myproductsdb",
+      "username": "magycorp_dev",
+      "password": "@Magycorp2017",
+      "dialect": "mssql",
+      "host": "192.168.100.12",
+      "logging": false
+    },
+    "options": {
+      "type": "js"
+      
+    }
+  }
